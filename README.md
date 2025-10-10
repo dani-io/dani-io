@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=👋+Hey,+I'm+dani-io&animation=fadeIn&color=gradient&height=120" alt="header" />
 </p>
 
-# Hi, I'm **dani-io**  
+# Hi, I'm **dani**  
 _IoT & Electronics Geek • Full-Stack Dev • Linux Nerd • Gadget Hacker_
 
 ---
